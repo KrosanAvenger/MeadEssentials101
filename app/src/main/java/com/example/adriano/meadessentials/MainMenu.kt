@@ -12,6 +12,8 @@ class MainMenu : AppCompatActivity() {
 
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
+
+        //this is a shitty comment
     }
 
     /**
